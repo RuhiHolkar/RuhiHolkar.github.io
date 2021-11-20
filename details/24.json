@@ -1,0 +1,40 @@
+{
+    "id": 24,
+    "name": "arbok",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "abilities": [
+        "intimidate",
+        "shed-skin",
+        "unnerve"
+    ],
+    "hp": {
+        "name": "HP",
+        "stat": 60
+    },
+    "attack": {
+        "name": "Attack",
+        "stat": 95
+    },
+    "defense": {
+        "name": "Defense",
+        "stat": 69
+    },
+    "speed": {
+        "name": "Speed",
+        "stat": 80
+    },
+    "weight": {
+        "name": "Weight",
+        "stat": 650
+    },
+    "height": {
+        "name": "Height",
+        "stat": 35
+    },
+    "evolvefrom": {
+        "name": "ekans"
+    },
+    "evolveto": {
+        "name": null
+    }
+}

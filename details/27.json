@@ -1,0 +1,39 @@
+{
+    "id": 27,
+    "name": "sandshrew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "abilities": [
+        "sand-veil",
+        "sand-rush"
+    ],
+    "hp": {
+        "name": "HP",
+        "stat": 50
+    },
+    "attack": {
+        "name": "Attack",
+        "stat": 75
+    },
+    "defense": {
+        "name": "Defense",
+        "stat": 85
+    },
+    "speed": {
+        "name": "Speed",
+        "stat": 40
+    },
+    "weight": {
+        "name": "Weight",
+        "stat": 120
+    },
+    "height": {
+        "name": "Height",
+        "stat": 6
+    },
+    "evolvefrom": {
+        "name": null
+    },
+    "evolveto": {
+        "name": "sandslash"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3,
+    "name": "venusaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "abilities": [
+        "overgrow",
+        "chlorophyll"
+    ],
+    "hp": {
+        "name": "HP",
+        "stat": 80
+    },
+    "attack": {
+        "name": "Attack",
+        "stat": 82
+    },
+    "defense": {
+        "name": "Defense",
+        "stat": 83
+    },
+    "speed": {
+        "name": "Speed",
+        "stat": 80
+    },
+    "weight": {
+        "name": "Weight",
+        "stat": 1000
+    },
+    "height": {
+        "name": "Height",
+        "stat": 20
+    },
+    "evolvefrom": {
+        "name": "ivysaur"
+    },
+    "evolveto": {
+        "name": null
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 2,
+    "name": "ivysaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "abilities": [
+        "overgrow",
+        "chlorophyll"
+    ],
+    "hp": {
+        "name": "HP",
+        "stat": 60
+    },
+    "attack": {
+        "name": "Attack",
+        "stat": 62
+    },
+    "defense": {
+        "name": "Defense",
+        "stat": 63
+    },
+    "speed": {
+        "name": "Speed",
+        "stat": 60
+    },
+    "weight": {
+        "name": "Weight",
+        "stat": 130
+    },
+    "height": {
+        "name": "Height",
+        "stat": 10
+    },
+    "evolvefrom": {
+        "name": "bulbasaur"
+    },
+    "evolveto": {
+        "name": "venusaur"
+    }
+}
